@@ -1,4 +1,3 @@
-@@ -0,0 +1,12 @@
 - 👋 Hi, I’m @kumesha02
 - 👀 I’m interested in software engineering,Computer vision & AI
 - 🌱 I’m currently learning deep learning
