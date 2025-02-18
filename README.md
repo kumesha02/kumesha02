@@ -1,16 +1,13 @@
 # 👋 Hi, I’m Kumesha Wijesundara
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Qs1xIbKf5c3ZzBQg7m/giphy.gif" alt="Animated Hello GIF" width="400"/>
-</p>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave Animation" width="400"/></p>
 
 Welcome to my GitHub profile! 🌟 I'm a passionate **IT undergraduate student at SLIIT** with expertise in **Computer Vision**, **AI**, and **Deep Learning**. Let’s collaborate and build something amazing together! 🚀
 
 ---
 
 ## 🌟 About Me
-- **Name:** Kumesha  
-- **Pronouns:** He/Him  
 - **Interests:** Software Engineering, Computer Vision, Artificial Intelligence, Deep Learning  
 - **Currently Learning:** 🔥 Deep Learning (Frameworks: TensorFlow, PyTorch)  
 
