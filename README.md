@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/Qs1xIbKf5c3ZzBQg7m/giphy.gif" alt="Animated Hello GIF" width="400"/>
 </p>
 
-Welcome to my GitHub profile! 🌟 I'm a passionate **Software Engineering student and SLIIT** with expertise in **Computer Vision**, **AI**, and **Deep Learning**. Let’s collaborate and build something amazing together! 🚀
+Welcome to my GitHub profile! 🌟 I'm a passionate **IT undergraduate student at SLIIT** with expertise in **Computer Vision**, **AI**, and **Deep Learning**. Let’s collaborate and build something amazing together! 🚀
 
 ---
 
@@ -69,7 +69,7 @@ If you have a project idea or need help, feel free to reach out! 🤙
 ## 📬 How to Reach Me
 Feel free to connect with me through any of these platforms:
 - **Email:** [kumeshawijesundara2002@gmail.com](mailto:kumeshawijesundara2002@gmail.com)
-- **LinkedIn:** [linkedin.com/in/kumesha02](https://www.linkedin.com/in/kumesha02)
+- **LinkedIn:** [linkedin.com/in/kumesha02]([https://www.linkedin.com/in/kumesha02](https://www.linkedin.com/in/kumesha-wijesundara-35786a267/))
 ---
 
 ## ✨ Why This Repository is Special
