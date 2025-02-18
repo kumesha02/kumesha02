@@ -23,7 +23,7 @@ I specialize in solving real-world problems using technology. My focus areas inc
 Here are some of the languages, frameworks, and tools I frequently use:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,tensorflow,pytorch,opencv,cpp,js,html,css,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,tensorflow,pytorch,opencv,cpp,js,html,css,docker,git,kubernetes,aws,php,java" />
 </p>
 
 ---
