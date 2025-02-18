@@ -69,7 +69,7 @@ If you have a project idea or need help, feel free to reach out! 🤙
 ## 📬 How to Reach Me
 Feel free to connect with me through any of these platforms:
 - **Email:** [kumeshawijesundara2002@gmail.com](mailto:kumeshawijesundara2002@gmail.com)
-- **LinkedIn:** [linkedin.com/in/kumesha02]([https://www.linkedin.com/in/kumesha02](https://www.linkedin.com/in/kumesha-wijesundara-35786a267/))
+- **LinkedIn:** [linkedin.com/in/kumesha02](https://www.linkedin.com/in/kumesha-wijesundara-35786a267/)
 ---
 
 ## ✨ Why This Repository is Special
