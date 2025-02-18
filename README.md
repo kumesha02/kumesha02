@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kumesha02
+# 👋 Hi, I’m Kumesha Wijesundara
 
 <p align="center">
   <img src="https://media.giphy.com/media/Qs1xIbKf5c3ZzBQg7m/giphy.gif" alt="Animated Hello GIF" width="400"/>
