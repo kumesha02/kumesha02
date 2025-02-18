@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Kumesha Wijesundara
 
-<p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave Animation" width="400"/></p>
 
 Welcome to my GitHub profile! 🌟 I'm a passionate **IT undergraduate student at SLIIT** with expertise in **Computer Vision**, **AI**, and **Deep Learning**. Let’s collaborate and build something amazing together! 🚀
 
@@ -68,16 +66,5 @@ Feel free to connect with me through any of these platforms:
 - **Email:** [kumeshawijesundara2002@gmail.com](mailto:kumeshawijesundara2002@gmail.com)
 - **LinkedIn:** [linkedin.com/in/kumesha02](https://www.linkedin.com/in/kumesha-wijesundara-35786a267/)
 ---
-
-## ✨ Why This Repository is Special
-This `README.md` file serves as both a personal introduction and a showcase of my skills and interests. It dynamically updates on my GitHub profile, making it easy for visitors to learn about me at a glance.
-
----
-
-### Preview Your Changes
-To see how this looks live, click the **Preview** button above after saving your changes. Customize further based on your preferences!
-
----
-
 ### Thank You for Visiting! 🌈
 Let’s work together to create something impactful. Drop me a message anytime—I’d love to hear from you! 😊
