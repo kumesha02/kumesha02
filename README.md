@@ -23,7 +23,7 @@ I specialize in solving real-world problems using technology. My focus areas inc
 Here are some of the languages, frameworks, and tools I have learned:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,r,react,nodejs,tensorflow,pytorch,redis,opencv,cpp,js,html,css,docker,git,postgresql,nextjs,aws,flask,php,oracle,django,mysql,mongodb,java" />
+  <img src="https://skillicons.dev/icons?i=c,python,r,react,nodejs,expressjs,tensorflow,pytorch,redis,opencv,cpp,js,html,css,docker,git,postgresql,nextjs,aws,flask,php,oracle,django,mysql,mongodb,java" />
 </p>
 
 ---
